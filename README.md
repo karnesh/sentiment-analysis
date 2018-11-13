@@ -1,2 +1,2 @@
 # Sentiment-analysis 
-Movie review sentiment analysis using bag of words model
+IMDB Movie review sentiment analysis using bag of words model
